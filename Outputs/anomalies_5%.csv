@@ -1,0 +1,26 @@
+Mission ID,Mission Name,Launch Date,Target Type,Target Name,Mission Type,Distance from Earth (light-years),Mission Duration (years),Mission Cost (billion USD),Scientific Yield (points),Crew Size,Mission Success (%),Fuel Consumption (tons),Payload Weight (tons),Launch Vehicle,Anomaly
+MSN-0005,Mission-5,2025-01-29,Exoplanet,Proxima b,Mining,8.67,9.2,72.14,96.5,31,73.2,892.76,12.4,Starship,-1
+MSN-0028,Mission-28,2025-07-09,Moon,Mars,Mining,2.44,4.4,41.36,66.4,81,67.4,248.33,6.8,Falcon Heavy,-1
+MSN-0082,Mission-82,2026-07-22,Planet,Mars,Colonization,49.38,26.0,497.14,89.5,49,100.0,4925.01,90.34,SLS,-1
+MSN-0105,Mission-105,2026-12-30,Planet,Titan,Research,3.94,4.5,67.64,76.4,2,79.7,357.1,6.9,SLS,-1
+MSN-0120,Mission-120,2027-04-14,Moon,Betelgeuse,Mining,1.16,2.4,293.27,15.9,12,92.4,84.36,48.85,Ariane 6,-1
+MSN-0123,Mission-123,2027-05-05,Exoplanet,Mars,Colonization,46.96,28.3,89.89,82.7,5,78.7,4636.54,15.39,Falcon Heavy,-1
+MSN-0125,Mission-125,2027-05-19,Planet,Proxima b,Research,49.9,26.8,41.94,16.5,12,72.6,5018.6,7.14,SLS,-1
+MSN-0132,Mission-132,2027-07-07,Exoplanet,Io,Research,49.21,27.1,45.31,73.6,78,80.1,4820.63,5.82,Starship,-1
+MSN-0144,Mission-144,2027-09-29,Star,Europa,Research,0.99,1.7,104.18,52.9,39,69.3,79.63,13.57,Starship,-1
+MSN-0145,Mission-145,2027-10-06,Star,Io,Research,49.39,26.6,79.65,30.3,68,72.0,4884.07,13.21,Falcon Heavy,-1
+MSN-0155,Mission-155,2027-12-15,Asteroid,Ceres,Mining,47.24,26.1,73.21,62.7,19,66.8,4648.99,8.6,Starship,-1
+MSN-0165,Mission-165,2028-02-23,Asteroid,Europa,Exploration,11.61,8.4,102.01,22.9,8,78.1,1218.3,10.74,SLS,-1
+MSN-0172,Mission-172,2028-04-12,Planet,Betelgeuse,Colonization,48.46,25.7,62.02,14.9,6,78.6,4751.5,10.6,SLS,-1
+MSN-0207,Mission-207,2028-12-13,Exoplanet,Titan,Exploration,42.58,24.9,538.32,96.9,41,100.0,4262.31,99.66,SLS,-1
+MSN-0248,Mission-248,2029-09-26,Planet,Titan,Exploration,5.44,4.6,21.86,15.2,25,66.8,422.68,1.64,Ariane 6,-1
+MSN-0255,Mission-255,2029-11-14,Planet,Betelgeuse,Colonization,5.22,4.6,109.93,40.4,9,71.9,534.18,18.27,Starship,-1
+MSN-0283,Mission-283,2030-05-29,Planet,Io,Exploration,8.26,8.9,66.31,41.3,19,68.7,839.83,9.08,Ariane 6,-1
+MSN-0291,Mission-291,2030-07-24,Asteroid,Io,Research,47.55,28.5,26.83,90.9,40,71.3,4826.75,2.37,Falcon Heavy,-1
+MSN-0309,Mission-309,2030-11-27,Exoplanet,Io,Research,48.41,26.7,153.95,96.6,58,89.9,4852.69,23.88,SLS,-1
+MSN-0336,Mission-336,2031-06-04,Moon,Io,Mining,3.72,3.0,146.17,96.2,60,78.2,296.41,21.47,Ariane 6,-1
+MSN-0354,Mission-354,2031-10-08,Star,Ceres,Exploration,0.59,4.9,193.28,81.4,92,98.0,19.37,38.29,Falcon Heavy,-1
+MSN-0359,Mission-359,2031-11-12,Planet,Europa,Colonization,1.76,5.5,156.83,95.6,11,76.5,110.63,25.61,Starship,-1
+MSN-0395,Mission-395,2032-07-21,Exoplanet,Io,Exploration,48.8,27.5,74.5,39.0,12,86.5,4927.06,6.31,Ariane 6,-1
+MSN-0473,Mission-473,2034-01-18,Moon,Titan,Mining,1.93,3.3,390.72,10.0,72,100.0,175.46,74.49,Starship,-1
+MSN-0487,Mission-487,2034-04-26,Planet,Io,Mining,2.06,2.7,36.82,76.8,98,79.1,217.33,4.52,Starship,-1
