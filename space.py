@@ -130,11 +130,7 @@ anomalies[['Mission ID', 'Mission Name', 'Reasons']].to_csv("Outputs/anomaly_rep
 
 rule_based_flags = (result['Mission Cost (billion USD)'] > 2.0) & (result['Scientific Yield (points)'] < 30)
 result['Rule_Based_Anomaly'] = rule_based_flags.astype(int)
-
-# Extract rule-based anomalies
 rule_based_anomalies = result[result['Rule_Based_Anomaly'] == 1]
-
-# Save them to a CSV
 rule_based_anomalies[['Mission ID', 'Mission Name', 'Mission Cost (billion USD)', 'Scientific Yield (points)']].to_csv("Outputs/rule_based_anomalies.csv", index=False)
 
 #This is a preliminary effort on my part and I would love to keep further expanding my knowledge and potentially work on more specialized provided datasets to improve my work as well as showcase my ability
