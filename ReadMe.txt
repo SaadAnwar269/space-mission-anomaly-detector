@@ -1,4 +1,4 @@
-This is a prototype implementation for the Space Mission Risk Analysis Project in the REYES Program.
+This is a prototype implementation for the Space Mission Risk Analysis Project
 
 The datasets used are provided in the respective folder
 The file is a simple python script and does not require any additional dependencies, can be run directly from space.py 
